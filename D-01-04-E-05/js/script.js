@@ -30,3 +30,4 @@ if (letra === "a" || letra === "e" || letra === "i" || letra === "o" || letra ==
 } else {
     console.log("É uma consoante.");
 }
+

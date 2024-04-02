@@ -12,3 +12,4 @@ while (n2 > 0 && n2 <= 10) {
 console.log(`${contador} * ${n2} = ${contador * n2}`);
 contador++
 }
+
